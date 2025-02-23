@@ -5,8 +5,8 @@ class Program    // class Writes the program to define an entry point class, whi
 {
     static void Main()  // is the entry point of the program.
     {
-        Variables Obj = new Variables();  // class ka object banao
-        Obj.VariablesExample();  // Method call karo
+        Identifiers Obj = new Identifiers();       // class ka object banao.
+        Obj.IdentifiersExample();         // Method call karo.
     }
 }
 

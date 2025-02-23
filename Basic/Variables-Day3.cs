@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basic
 {
-    internal class Variables
+    public class Variables  // `public class Variables` is used to define a class that is accessible from any assembly. This means the class can be accessed from anywhere.
     {
         public void VariablesExample()
         {
