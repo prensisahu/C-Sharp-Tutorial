@@ -1,10 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace HelloWorld    // Namespace is used to organize and manage code.
+namespace Basic
 {
-    class Program
+    internal class Syntax
     {
-        static void Main()
+        public void SyntaxExample()
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I am Learning C#");
