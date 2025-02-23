@@ -17,7 +17,8 @@ This is a simple C# application that does XYZ.
 3. Run the project  
 
 ## 📸 Screenshots
-![App Screenshot]![Learn c sharp](https://github.com/user-attachments/assets/2f595aac-4e1b-45b9-b066-38c9e0526415)
+![App Screenshot]![Learn c sharp](![Learn c sharp](https://github.com/user-attachments/assets/836f557f-f5e2-4c22-9769-8cd639742230)
+)
 
 
 ## 🤝 Contributing  
