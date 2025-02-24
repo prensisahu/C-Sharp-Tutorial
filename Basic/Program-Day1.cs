@@ -5,8 +5,8 @@ class Program    // class Writes the program to define an entry point class, whi
 {
     static void Main()  // is the entry point of the program.
     {
-        UserInput Obj = new UserInput();       // class ka object banao.
-        Obj.UserinputExample2();         // Method call karo.
+        Strings Obj = new Strings();       // class ka object banao.
+        Obj.SpecialCharters();         // Method call karo.
     }
 }
 
