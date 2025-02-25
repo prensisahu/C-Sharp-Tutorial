@@ -5,8 +5,8 @@ class Program    // class Writes the program to define an entry point class, whi
 {
     static void Main()  // is the entry point of the program.
     {
-        BreakContinue Obj = new BreakContinue();       // class ka object banao.
-        Obj.ContinueExample();         // Method call karo.
+        Syntax Obj = new Syntax();       // class ka object banao.
+        Obj.SyntaxExample();         // Method call karo.
     }
 }
 
