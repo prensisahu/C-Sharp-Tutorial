@@ -73,7 +73,7 @@ namespace Basic
         public void SpecialCharters()
         {
             // Example 1
-            string txt = "I am form \"chhattisgarh\"";
+            string txt = "I like a \"c#\" programming language.";
             Console.WriteLine(txt);
 
             // Example 2
