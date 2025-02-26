@@ -8,20 +8,16 @@ namespace Advance
 {
     internal class MethodParameters
     {
-        static void MyMethod2(string fname)
+        static void GreetUser(string name, int age)
         {
-            Console.WriteLine(fname + " Refsnes");
+            Console.WriteLine($"Hello {name}, you are {age} years old.");
         }
 
         static void Main()
         {
-            MyMethod2("Liam");
-            MyMethod2("Jenny");
-            MyMethod2("Anja");
+            // Method call with arguments
+            GreetUser("Prensi", 22);
+            GreetUser("Sanju", 21);
         }
-
-        // Liam Refsnes
-        // Jenny Refsnes
-        // Anja Refsnes
     }
 }

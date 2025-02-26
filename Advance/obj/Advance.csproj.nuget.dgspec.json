@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\Advance\\Advance.csproj": {}
+    "C:\\Users\\Lenovo\\Source\\Repos\\Advance\\Advance\\Advance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\Advance\\Advance.csproj": {
+    "C:\\Users\\Lenovo\\Source\\Repos\\Advance\\Advance\\Advance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\Advance\\Advance.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\Advance\\Advance\\Advance.csproj",
         "projectName": "Advance",
-        "projectPath": "C:\\Users\\Lenovo\\source\\Advance\\Advance.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\Advance\\Advance\\Advance.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\Advance\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\Advance\\Advance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
