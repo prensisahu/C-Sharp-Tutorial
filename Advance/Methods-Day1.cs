@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Advance
 {
-    internal class Program
+    internal class Methods
     {
         /*  Some steps to run any .cs file.
              1. Open **Visual Studio (VS)** and click on the **View** menu.  

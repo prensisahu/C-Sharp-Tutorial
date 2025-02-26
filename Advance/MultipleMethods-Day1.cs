@@ -2,7 +2,7 @@
 
 namespace MyApplication
 {
-    class Methods
+    class MultipleMethods
     {
         //  Example 1
         static void MyMethod()
@@ -12,7 +12,9 @@ namespace MyApplication
 
         static void Main()
         {
-            MyMethod(); // Note:- methods can be called repeatedly.
+            MyMethod();
+            MyMethod();
+            MyMethod();
         }  
     }
 }
