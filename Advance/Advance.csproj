@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Advance.MethodParameters</StartupObject>
+    <StartupObject>Advance.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
