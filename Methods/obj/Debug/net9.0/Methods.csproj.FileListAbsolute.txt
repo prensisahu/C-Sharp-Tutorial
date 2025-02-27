@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\Methods\bin\Debug\net9.0\Methods.exe
+C:\Users\Lenovo\source\Methods\bin\Debug\net9.0\Methods.deps.json
+C:\Users\Lenovo\source\Methods\bin\Debug\net9.0\Methods.runtimeconfig.json
+C:\Users\Lenovo\source\Methods\bin\Debug\net9.0\Methods.dll
+C:\Users\Lenovo\source\Methods\bin\Debug\net9.0\Methods.pdb
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\Methods.AssemblyInfo.cs
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\Methods.dll
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\refint\Methods.dll
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\Methods.pdb
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\Methods.genruntimeconfig.cache
+C:\Users\Lenovo\source\Methods\obj\Debug\net9.0\ref\Methods.dll
